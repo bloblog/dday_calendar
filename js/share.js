@@ -9,8 +9,8 @@ document.getElementById('shareButton').addEventListener('click', async () => {
   
       // Your share data
       const shareData = {
-        title: 'Web Share Example',
-        text: 'Check out this web share example!',
+        title: '천방지축 어리둥절 빙글빙글 돌아가는 만2세의 일년',
+        text: '들어가서 카드를 열어보세요!',
         url: window.location.href
       };
   
