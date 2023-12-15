@@ -32,8 +32,8 @@ const doors = document.querySelectorAll('.door');
 doors.forEach((door, index) => {
   door.addEventListener('click', () => {
     // 현재 한국 시간을 얻어오기
-    // const now = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
-    const now = new Date("2023-12-31");
+    const now = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
+    
     // 각 날짜에 해당하는 날짜를 계산
     const openDate = new Date(2023, 11, index + 1); // 2023년 12월 1일부터 시작
 

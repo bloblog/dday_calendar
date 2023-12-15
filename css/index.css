@@ -1,5 +1,5 @@
 body {
-    background-image: url("image/bg.png");
+    background-image: url("../image/bg.png");
     background-size: cover;
     background-position: center;
 }
@@ -83,14 +83,14 @@ body {
   /* 그리드 별 배경 이미지 */
   .day-1 {
     grid-area: d1;
-    background: url("image/frame/frame1.png");
+    background: url("../image/frame/frame1.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-1 .back {
-    background-image: url("image/card/card-1.png");
+    background-image: url("../image/card/card-1.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -98,14 +98,14 @@ body {
   
   .day-2 {
     grid-area: d2;
-    background: url("image/frame/frame2.png");
+    background: url("../image/frame/frame2.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-2 .back {
-    background-image: url("image/card/card-2.png");
+    background-image: url("../image/card/card-2.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -113,14 +113,14 @@ body {
   
   .day-3 {
     grid-area: d3;
-    background: url("image/frame/frame3.png");
+    background: url("../image/frame/frame3.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-3 .back {
-    background-image: url("image/card/card-3.png");
+    background-image: url("../image/card/card-3.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -128,14 +128,14 @@ body {
   
   .day-4 {
     grid-area: d4;
-    background: url("image/frame/frame4.png");
+    background: url("../image/frame/frame4.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-4 .back {
-    background-image: url("image/card/card-4.png");
+    background-image: url("../image/card/card-4.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -143,14 +143,14 @@ body {
   
   .day-5 {
     grid-area: d5;
-    background: url("image/frame/frame5.png");
+    background: url("../image/frame/frame5.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-5 .back {
-    background-image: url("image/card/card-5.png");
+    background-image: url("../image/card/card-5.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -158,14 +158,14 @@ body {
   
   .day-6 {
     grid-area: d6;
-    background: url("image/frame/frame6.png");
+    background: url("../image/frame/frame6.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-6 .back {
-    background-image: url("image/card/card-6.png");
+    background-image: url("../image/card/card-6.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -173,14 +173,14 @@ body {
   
   .day-7 {
     grid-area: d7;
-    background: url("image/frame/frame7.png");
+    background: url("../image/frame/frame7.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-7 .back {
-    background-image: url("image/card/card-7.png");
+    background-image: url("../image/card/card-7.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -188,14 +188,14 @@ body {
   
   .day-8 {
     grid-area: d8;
-    background: url("image/frame/frame8.png");
+    background: url("../image/frame/frame8.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-8 .back {
-    background-image: url("image/card/card-8.png");
+    background-image: url("../image/card/card-8.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -203,14 +203,14 @@ body {
   
   .day-9 {
     grid-area: d9;
-    background: url("image/frame/frame9.png");
+    background: url("../image/frame/frame9.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-9 .back {
-    background-image: url("image/card/card-9.png");
+    background-image: url("../image/card/card-9.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -218,14 +218,14 @@ body {
   
   .day-10 {
     grid-area: d10;
-    background: url("image/frame/frame10.png");
+    background: url("../image/frame/frame10.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-10 .back {
-    background-image: url("image/card/card-10.png");
+    background-image: url("../image/card/card-10.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -233,14 +233,14 @@ body {
   
   .day-11 {
     grid-area: d11;
-    background: url("image/frame/frame11.png");
+    background: url("../image/frame/frame11.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-11 .back {
-    background-image: url("image/card/card-11.png");
+    background-image: url("../image/card/card-11.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -248,14 +248,14 @@ body {
   
   .day-12 {
     grid-area: d12;
-    background: url("image/frame/frame12.png");
+    background: url("../image/frame/frame12.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-12 .back {
-    background-image: url("image/card/card-12.png");
+    background-image: url("../image/card/card-12.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -263,14 +263,14 @@ body {
   
   .day-13 {
     grid-area: d13;
-    background: url("image/frame/frame13.png");
+    background: url("../image/frame/frame13.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-13 .back {
-    background-image: url("image/card/card-13.png");
+    background-image: url("../image/card/card-13.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -278,14 +278,14 @@ body {
   
   .day-14 {
     grid-area: d14;
-    background: url("image/frame/frame14.png");
+    background: url("../image/frame/frame14.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-14 .back {
-    background-image: url("image/card/card-14.png");
+    background-image: url("../image/card/card-14.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -293,14 +293,14 @@ body {
   
   .day-15 {
     grid-area: d15;
-    background: url("image/frame/frame15.png");
+    background: url("../image/frame/frame15.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-15 .back {
-    background-image: url("image/card/card-15.png");
+    background-image: url("../image/card/card-15.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -308,14 +308,14 @@ body {
   
   .day-16 {
     grid-area: d16;
-    background: url("image/frame/frame16.png");
+    background: url("../image/frame/frame16.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-16 .back {
-    background-image: url("image/card/card-16.png");
+    background-image: url("../image/card/card-16.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -323,14 +323,14 @@ body {
   
   .day-17 {
     grid-area: d17;
-    background: url("image/frame/frame17.png");
+    background: url("../image/frame/frame17.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-17 .back {
-    background-image: url("image/card/card-17.png");
+    background-image: url("../image/card/card-17.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -338,14 +338,14 @@ body {
   
   .day-18 {
     grid-area: d18;
-    background: url("image/frame/frame18.png");
+    background: url("../image/frame/frame18.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-18 .back {
-    background-image: url("image/card/card-18.png");
+    background-image: url("../image/card/card-18.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -353,14 +353,14 @@ body {
   
   .day-19 {
     grid-area: d19;
-    background: url("image/frame/frame19.png");
+    background: url("../image/frame/frame19.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-19 .back {
-    background-image: url("image/card/card-19.png");
+    background-image: url("../image/card/card-19.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -368,14 +368,14 @@ body {
   
   .day-20 {
     grid-area: d20;
-    background: url("image/frame/frame20.png");
+    background: url("../image/frame/frame20.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-20 .back {
-    background-image: url("image/card/card-20.png");
+    background-image: url("../image/card/card-20.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -383,14 +383,14 @@ body {
   
   .day-21 {
     grid-area: d21;
-    background: url("image/frame/frame21.png");
+    background: url("../image/frame/frame21.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-21 .back {
-    background-image: url("image/card/card-21.png");
+    background-image: url("../image/card/card-21.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -398,14 +398,14 @@ body {
   
   .day-22 {
     grid-area: d22;
-    background: url("image/frame/frame22.png");
+    background: url("../image/frame/frame22.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-22 .back {
-    background-image: url("image/card/card-22.png");
+    background-image: url("../image/card/card-22.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -413,14 +413,14 @@ body {
   
   .day-23 {
     grid-area: d23;
-    background: url("image/frame/frame23.png");
+    background: url("../image/frame/frame23.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-23 .back {
-    background-image: url("image/card/card-23.png");
+    background-image: url("../image/card/card-23.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -428,14 +428,14 @@ body {
   
   .day-24 {
     grid-area: d24;
-    background: url("image/frame/frame24.png");
+    background: url("../image/frame/frame24.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-24 .back {
-    background-image: url("image/card/card-24.png");
+    background-image: url("../image/card/card-24.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -487,14 +487,14 @@ body {
   /* 그리드 별 배경 이미지 */
   .day-1 {
     grid-area: d1;
-    background: url("image/frame/frame1.png");
+    background: url("../image/frame/frame1.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-1 .back {
-    background-image: url("image/card/card-1.png");
+    background-image: url("../image/card/card-1.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -502,14 +502,14 @@ body {
   
   .day-2 {
     grid-area: d2;
-    background: url("image/frame/frame2.png");
+    background: url("../image/frame/frame2.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-2 .back {
-    background-image: url("image/card/card-2.png");
+    background-image: url("../image/card/card-2.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -517,14 +517,14 @@ body {
   
   .day-3 {
     grid-area: d3;
-    background: url("image/frame/frame3.png");
+    background: url("../image/frame/frame3.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-3 .back {
-    background-image: url("image/card/card-3.png");
+    background-image: url("../image/card/card-3.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -532,14 +532,14 @@ body {
   
   .day-4 {
     grid-area: d4;
-    background: url("image/frame/frame4.png");
+    background: url("../image/frame/frame4.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-4 .back {
-    background-image: url("image/card/card-4.png");
+    background-image: url("../image/card/card-4.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -547,14 +547,14 @@ body {
   
   .day-5 {
     grid-area: d5;
-    background: url("image/frame/frame5.png");
+    background: url("../image/frame/frame5.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-5 .back {
-    background-image: url("image/card/card-5.png");
+    background-image: url("../image/card/card-5.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -562,14 +562,14 @@ body {
   
   .day-6 {
     grid-area: d6;
-    background: url("image/frame/frame6.png");
+    background: url("../image/frame/frame6.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-6 .back {
-    background-image: url("image/card/card-6.png");
+    background-image: url("../image/card/card-6.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -577,14 +577,14 @@ body {
   
   .day-7 {
     grid-area: d7;
-    background: url("image/frame/frame7.png");
+    background: url("../image/frame/frame7.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-7 .back {
-    background-image: url("image/card/card-7.png");
+    background-image: url("../image/card/card-7.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -592,14 +592,14 @@ body {
   
   .day-8 {
     grid-area: d8;
-    background: url("image/frame/frame8.png");
+    background: url("../image/frame/frame8.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-8 .back {
-    background-image: url("image/card/card-8.png");
+    background-image: url("../image/card/card-8.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -607,14 +607,14 @@ body {
   
   .day-9 {
     grid-area: d9;
-    background: url("image/frame/frame9.png");
+    background: url("../image/frame/frame9.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-9 .back {
-    background-image: url("image/card/card-9.png");
+    background-image: url("../image/card/card-9.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -622,14 +622,14 @@ body {
   
   .day-10 {
     grid-area: d10;
-    background: url("image/frame/frame10.png");
+    background: url("../image/frame/frame10.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-10 .back {
-    background-image: url("image/card/card-10.png");
+    background-image: url("../image/card/card-10.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -637,14 +637,14 @@ body {
   
   .day-11 {
     grid-area: d11;
-    background: url("image/frame/frame11.png");
+    background: url("../image/frame/frame11.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-11 .back {
-    background-image: url("image/card/card-11.png");
+    background-image: url("../image/card/card-11.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -652,14 +652,14 @@ body {
   
   .day-12 {
     grid-area: d12;
-    background: url("image/frame/frame12.png");
+    background: url("../image/frame/frame12.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-12 .back {
-    background-image: url("image/card/card-12.png");
+    background-image: url("../image/card/card-12.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -667,14 +667,14 @@ body {
   
   .day-13 {
     grid-area: d13;
-    background: url("image/frame/frame13.png");
+    background: url("../image/frame/frame13.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-13 .back {
-    background-image: url("image/card/card-13.png");
+    background-image: url("../image/card/card-13.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -682,14 +682,14 @@ body {
   
   .day-14 {
     grid-area: d14;
-    background: url("image/frame/frame14.png");
+    background: url("../image/frame/frame14.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-14 .back {
-    background-image: url("image/card/card-14.png");
+    background-image: url("../image/card/card-14.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -697,14 +697,14 @@ body {
   
   .day-15 {
     grid-area: d15;
-    background: url("image/frame/frame15.png");
+    background: url("../image/frame/frame15.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-15 .back {
-    background-image: url("image/card/card-15.png");
+    background-image: url("../image/card/card-15.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -712,14 +712,14 @@ body {
   
   .day-16 {
     grid-area: d16;
-    background: url("image/frame/frame16.png");
+    background: url("../image/frame/frame16.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-16 .back {
-    background-image: url("image/card/card-16.png");
+    background-image: url("../image/card/card-16.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -727,14 +727,14 @@ body {
   
   .day-17 {
     grid-area: d17;
-    background: url("image/frame/frame17.png");
+    background: url("../image/frame/frame17.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-17 .back {
-    background-image: url("image/card/card-17.png");
+    background-image: url("../image/card/card-17.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -742,14 +742,14 @@ body {
   
   .day-18 {
     grid-area: d18;
-    background: url("image/frame/frame18.png");
+    background: url("../image/frame/frame18.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-18 .back {
-    background-image: url("image/card/card-18.png");
+    background-image: url("../image/card/card-18.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -757,14 +757,14 @@ body {
   
   .day-19 {
     grid-area: d19;
-    background: url("image/frame/frame19.png");
+    background: url("../image/frame/frame19.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-19 .back {
-    background-image: url("image/card/card-19.png");
+    background-image: url("../image/card/card-19.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -772,14 +772,14 @@ body {
   
   .day-20 {
     grid-area: d20;
-    background: url("image/frame/frame20.png");
+    background: url("../image/frame/frame20.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-20 .back {
-    background-image: url("image/card/card-20.png");
+    background-image: url("../image/card/card-20.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -787,14 +787,14 @@ body {
   
   .day-21 {
     grid-area: d21;
-    background: url("image/frame/frame21.png");
+    background: url("../image/frame/frame21.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-21 .back {
-    background-image: url("image/card/card-21.png");
+    background-image: url("../image/card/card-21.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -802,14 +802,14 @@ body {
   
   .day-22 {
     grid-area: d22;
-    background: url("image/frame/frame22.png");
+    background: url("../image/frame/frame22.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-22 .back {
-    background-image: url("image/card/card-22.png");
+    background-image: url("../image/card/card-22.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -817,14 +817,14 @@ body {
   
   .day-23 {
     grid-area: d23;
-    background: url("image/frame/frame23.png");
+    background: url("../image/frame/frame23.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-23 .back {
-    background-image: url("image/card/card-23.png");
+    background-image: url("../image/card/card-23.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -832,14 +832,14 @@ body {
   
   .day-24 {
     grid-area: d24;
-    background: url("image/frame/frame24.png");
+    background: url("../image/frame/frame24.png");
     background-position: center;
     background-size: cover;
   
   }
   
   .day-24 .back {
-    background-image: url("image/card/card-24.png");
+    background-image: url("../image/card/card-24.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
