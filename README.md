@@ -7,8 +7,9 @@
 근데 이제 조카의 1년 간의 사진이 들어있는...
 
 ### ❄️ 결과
-![https://bloblog.github.io/dday_calendar/](.jpg)</br>
-GitHub Pages 로 웹페이지 호스팅
+GitHub Pages 로 [웹페이지](https://bloblog.github.io/dday_calendar/) 호스팅</br>
+
+
 
 ### 👩‍💻 구현 방식
 강의에서 제공하는 코드 + 원하는 기능 추가
@@ -18,6 +19,6 @@ GitHub Pages 로 웹페이지 호스팅
 2. 이미 열린 카드를 닫을 때는 모달을 띄우지 않도록 수정
 
 ### 👊 트러블 슈팅 사항
-1. `공유하기` 기능을 크롬에서도 사용할 수 있도록 크롬 세팅 수정
-    - [해당 페이지](chrome://flags/#web-share) 로 접속하여 Web Share 속성을 `Enable` 해주고 Relaunch
+1. 공유하기 기능을 크롬에서도 사용할 수 있도록 크롬 세팅 수정
+    - `chrome://flags/#web-share` 로 접속하여 Web Share 속성을 Enable로 바꿔주고 Relaunch
     - 참고 페이지 : https://winaero.com/chrome-to-get-web-share-api-support-on-desktop/
